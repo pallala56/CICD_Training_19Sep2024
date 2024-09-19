@@ -1,4 +1,4 @@
-# 20June2024 - DevOps - Git, Jenkins & Ansible Session
+# 19 Sep 2024 - DevOps - Git, Jenkins & Ansible Session
 
 Detailed PDFs for Git with GitHub (& Actions) can be found here : https://drive.google.com/drive/folders/1U-j-foQjkudmA-6BSq_r_jp0TPtdFkfA?usp=drive_link <br>
 Jenkins : https://drive.google.com/drive/folders/1eXS-PT6udDZmSgskA0t0IZpZF71NmaFJ?usp=drive_link <br>
